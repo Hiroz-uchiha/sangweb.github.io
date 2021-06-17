@@ -94,7 +94,7 @@ nav{
     margin-top: 48%;
     margin-left: 35%;
     color: white;
-    font-family: "Montserrat";
+
     animation:gerak 5s ease ;
 }
 .nam2{
@@ -105,7 +105,7 @@ nav{
     margin-top: 53%;
     margin-left: 40%;
     color: white;
-    font-family: "Montserrat";
+
     animation:gerak 5s ease ;
 }
 
@@ -263,7 +263,7 @@ nav{
         margin-top: 60%;
         margin-left: 30%;
         color: white;
-        font-family: "Montserrat";
+    
     }
     .nam2{
         width:400px;
@@ -273,7 +273,7 @@ nav{
         margin-top: 66%;
         margin-left: 36%;
         color: white;
-        font-family: "Montserrat";
+    
     }
 }
 
@@ -302,7 +302,7 @@ nav{
         margin-top: 460px;
         margin-left: 240px;
         color: white;
-        font-family: "Montserrat";
+    
     }
     .nam2{
         width:400px;
@@ -312,7 +312,7 @@ nav{
         margin-top: 510px;
         margin-left: 290px;
         color: white;
-        font-family: "Montserrat";
+    
     }
 
     .portofolio{
