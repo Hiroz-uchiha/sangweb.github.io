@@ -12,7 +12,7 @@ nav{
     color: rgb(205, 233, 243);
     display: flex;
     justify-content: space-between;
-    animation:gerak 7s ease;
+    animation:gerak 5s ease;
 
 }
 
